@@ -7,12 +7,12 @@ using System.Resources;
 // Allgemeine Informationen über eine Assembly werden über die folgenden 
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die mit einer Assembly verknüpft sind.
-[assembly: AssemblyTitle("Hurricane")]
+[assembly: AssemblyTitle("WhizMusic")]
 [assembly: AssemblyDescription("The music player with style")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Alkaline")]
-[assembly: AssemblyProduct("Hurricane")]
-[assembly: AssemblyCopyright("Copyright © 2014-2015 Alkaline")]
+[assembly: AssemblyCompany("ComputerWhiz")]
+[assembly: AssemblyProduct("WhizMusic")]
+[assembly: AssemblyCopyright("Copyright © 2019 ComputerWhiz Software")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: Exceptionless("3e5cdb4c97c2440884e4514a02821ddb")]
